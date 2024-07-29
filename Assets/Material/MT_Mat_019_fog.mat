@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 8
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MT_Mat_019_fog
+  m_Shader: {fileID: 4800000, guid: c6a299f8863e3a8448e4b3a1b4bc8d59, type: 3}
+  m_Parent: {fileID: 0}
+  m_ModifiedSerializedProperties: 0
+  m_ValidKeywords: []
+  m_InvalidKeywords: []
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 3000
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_LockedProperties:
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+      unity_Lightmaps:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      unity_LightmapsInd:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+      unity_ShadowMasks:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Ints: {}
+    m_Floats:
+      Vector1_0984985947bc446094c0fa998b7e6713: 0.1
+      Vector1_1c516a3632234146a3e2d2b4331c4a6b: 0.02
+      Vector1_3239dc2de7ee40e3935fbaf62a355f96: 20
+      Vector1_3419512a4213483a953fdab4ed4f53bd: 1
+      Vector1_44f5abc5e42f4a198d7a95d6808b30f1: 0.2
+      Vector1_6762af0e24bf4aa892d176f0ea4a05bd: -50
+      Vector1_714e27e99d564b059c38cf52c9e4f8bc: 1
+      Vector1_79716bfc74cb43cd9664c5409444579c: -1
+      Vector1_7a7b205c69464659bdb639ee0cf794df: 1
+      Vector1_89d5866d14794420b7221530ff53e6c6: 5
+      Vector1_c92ce7e623744199a99ba998c9520137: 0.05
+      Vector1_ccd4250b89594caab59c991e4d8d6ffb: 2
+      Vector1_d062ce24b8f546d8a04dd06cbe3a4135: 6
+      Vector1_e771a2ab12ed4cf9a6609fb8d1f2d449: 1
+      _QueueControl: 1
+      _QueueOffset: 0
+    m_Colors:
+      Vector4_874fde85b3d84f0cb083d8ea0a6955d8: {r: 0, g: 1, b: 1, a: 0}
+      Vector4_8ac65a5bf8b04414973016c1f84b6db9: {r: 1, g: 0, b: 0, a: 90}
+      _Color_Peak: {r: 0, g: 1, b: 0.7911868, a: 0}
+      _Color_Valley: {r: 0, g: 0.764151, b: 0.64780676, a: 0}
+  m_BuildTextureStacks: []
